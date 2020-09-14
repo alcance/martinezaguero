@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Digital Marketing'
+title: 'Team Building'
 icon: 'bullhorn'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Grow to full continous product development time management communication stree-free motivation platform implementation diagnose work unit engament data gathering'
 ---

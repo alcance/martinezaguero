@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Graphic Design'
+title: 'Minimum Viable Product (MVP)'
 icon: 'draw-polygon'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Explore markets using a real product and learn from understanding customers gaining the ability to measure business driven strategies.'
 ---

@@ -75,9 +75,9 @@ const Testimonials: React.FC = () => {
 
             return (
               <Styled.Testimonial key={id}>
-                <Styled.Image>
+                {/*<Styled.Image>
                   <Img fluid={cover.childImageSharp.fluid} alt={title} />
-                </Styled.Image>
+                </Styled.Image>*/}
                 <Styled.Title>{title}</Styled.Title>
                 <FormatHtml content={html} />
               </Styled.Testimonial>

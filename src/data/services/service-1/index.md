@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Web Design'
+title: 'High Fidelity Prototyping'
 icon: 'laptop-code'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Vallidate ideas with interactive functional product models on a low-risk cost-efficient testing environment within tight (5-7 days) design sprint.'
 ---

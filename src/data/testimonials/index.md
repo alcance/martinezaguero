@@ -1,5 +1,5 @@
 ---
 category: 'testimonials section'
-title: 'Testimonials'
-subtitle: 'What people are saying'
+title: 'Work'
+subtitle: 'great brands'
 ---

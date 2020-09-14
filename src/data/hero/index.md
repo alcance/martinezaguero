@@ -1,8 +1,8 @@
 ---
 category: 'hero section'
-title: 'Frontend Developer'
-subtitle: 'I am the Great Gatsby'
-content: 'Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book.'
+title: 'Engineering & Product Management'
+subtitle: 'End-to-end software specialist'
+content: 'Experienced and passionate software producer with over eight years of experience evaluating and improving business systems for well known organizations. Dedicated team leader with the ability to effectively manage and achieve project goals, leveraging my complex understanding of systems engineering concepts. Bringing forth a proven track record of effectively researching and analyzing business processes and procedures and designing and implementing business solutions.'
 linkTo: '/resume/'
-linkText: 'View My Profile'
+linkText: 'View My Experice'
 ---

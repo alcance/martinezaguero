@@ -1,6 +1,6 @@
 ---
 category: 'services'
-title: 'Copywrite'
+title: 'Product Management'
 icon: 'edit'
-description: 'Mauris neque libero, aliquet vel mollis nec, euismod sed tellus. Mauris convallis dictum elit id volutpat.'
+description: 'Eager to contribute to team success through hard work, attention to detail and excellent organizational skills.'
 ---
